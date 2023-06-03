@@ -1,0 +1,12 @@
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Gestion de viajes\Gestion de viajes\bin\Debug\Gestion de viajes.exe.config
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Gestion de viajes\Gestion de viajes\bin\Debug\Gestion de viajes.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Gestion de viajes\Gestion de viajes\bin\Debug\Gestion de viajes.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Gestion de viajes\Gestion de viajes\obj\Debug\Gestion de viajes.csprojResolveAssemblyReference.cache
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Gestion de viajes\Gestion de viajes\obj\Debug\Gestion de viajes.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Gestion de viajes\Gestion de viajes\obj\Debug\Gestion de viajes.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\PARCIAL\Gestion de viajes\Gestion de viajes\bin\Debug\Gestion de viajes.exe.config
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\PARCIAL\Gestion de viajes\Gestion de viajes\obj\Debug\Gestion de viajes.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\PARCIAL\Gestion de viajes\Gestion de viajes\obj\Debug\Gestion de viajes.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\PARCIAL\Gestion de viajes\Gestion de viajes\bin\Debug\Gestion de viajes.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\PARCIAL\Gestion de viajes\Gestion de viajes\bin\Debug\Gestion de viajes.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\PARCIAL\Gestion de viajes\Gestion de viajes\obj\Debug\Gestion de viajes.csprojResolveAssemblyReference.cache
