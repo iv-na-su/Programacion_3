@@ -1,0 +1,6 @@
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Agencia De Turismo\Agencia De Turismo\bin\Debug\Agencia De Turismo.exe.config
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Agencia De Turismo\Agencia De Turismo\bin\Debug\Agencia De Turismo.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Agencia De Turismo\Agencia De Turismo\bin\Debug\Agencia De Turismo.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Agencia De Turismo\Agencia De Turismo\obj\Debug\Agencia De Turismo.csprojResolveAssemblyReference.cache
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Agencia De Turismo\Agencia De Turismo\obj\Debug\Agencia De Turismo.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Pre-Parcial 1\Agencia De Turismo\Agencia De Turismo\obj\Debug\Agencia De Turismo.pdb
