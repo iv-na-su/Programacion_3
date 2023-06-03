@@ -1,0 +1,9 @@
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\bin\Debug\Sala De Ensayos Formulario.exe.config
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\bin\Debug\Sala De Ensayos Formulario.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\bin\Debug\Sala De Ensayos Formulario.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\obj\Debug\Sala_De_Ensayos_Formulario.SalaDeEnsayos.resources
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\obj\Debug\Sala_De_Ensayos_Formulario.Properties.Resources.resources
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\obj\Debug\Sala De Ensayos Formulario.csproj.GenerateResource.Cache
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\obj\Debug\Sala De Ensayos Formulario.exe
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\obj\Debug\Sala De Ensayos Formulario.pdb
+J:\PROGRAMACION\TECNICATURA UNIVERSITARIA EN PROGRAMACION\PROGRAMACION III\Clase 8\Sala De Ensayos Formulario\Sala De Ensayos Formulario\obj\Debug\Sala De Ensayos Formulario.csprojResolveAssemblyReference.cache
